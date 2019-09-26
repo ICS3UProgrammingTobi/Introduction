@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Introduction\HelloWorldIntTobi\HelloWorldIntTobi\bin\Debug\HelloWorldIntTobi.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Introduction\HelloWorldIntTobi\HelloWorldIntTobi\bin\Debug\HelloWorldIntTobi.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Introduction\HelloWorldIntTobi\HelloWorldIntTobi\bin\Debug\HelloWorldIntTobi.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Introduction\HelloWorldIntTobi\HelloWorldIntTobi\obj\Debug\HelloWorldIntTobi.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Introduction\HelloWorldIntTobi\HelloWorldIntTobi\obj\Debug\HelloWorldIntTobi.Form1.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Introduction\HelloWorldIntTobi\HelloWorldIntTobi\obj\Debug\HelloWorldIntTobi.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Introduction\HelloWorldIntTobi\HelloWorldIntTobi\obj\Debug\HelloWorldIntTobi.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Introduction\HelloWorldIntTobi\HelloWorldIntTobi\obj\Debug\HelloWorldIntTobi.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Introduction\HelloWorldIntTobi\HelloWorldIntTobi\obj\Debug\HelloWorldIntTobi.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Introduction\HelloWorldIntTobi\HelloWorldIntTobi\obj\Debug\HelloWorldIntTobi.pdb
