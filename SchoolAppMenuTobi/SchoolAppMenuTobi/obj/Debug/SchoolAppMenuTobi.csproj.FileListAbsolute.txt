@@ -1,0 +1,10 @@
+C:\Users\s467316\Documents\Tobi\SchoolAppMenuTobi\SchoolAppMenuTobi\bin\Debug\SchoolAppMenuTobi.exe.config
+C:\Users\s467316\Documents\Tobi\SchoolAppMenuTobi\SchoolAppMenuTobi\bin\Debug\SchoolAppMenuTobi.exe
+C:\Users\s467316\Documents\Tobi\SchoolAppMenuTobi\SchoolAppMenuTobi\bin\Debug\SchoolAppMenuTobi.pdb
+C:\Users\s467316\Documents\Tobi\SchoolAppMenuTobi\SchoolAppMenuTobi\obj\Debug\SchoolAppMenuTobi.csprojAssemblyReference.cache
+C:\Users\s467316\Documents\Tobi\SchoolAppMenuTobi\SchoolAppMenuTobi\obj\Debug\SchoolAppMenuTobi.Properties.Resources.resources
+C:\Users\s467316\Documents\Tobi\SchoolAppMenuTobi\SchoolAppMenuTobi\obj\Debug\SchoolAppMenuTobi.frmSchoolAppMenu.resources
+C:\Users\s467316\Documents\Tobi\SchoolAppMenuTobi\SchoolAppMenuTobi\obj\Debug\SchoolAppMenuTobi.csproj.GenerateResource.cache
+C:\Users\s467316\Documents\Tobi\SchoolAppMenuTobi\SchoolAppMenuTobi\obj\Debug\SchoolAppMenuTobi.csproj.CoreCompileInputs.cache
+C:\Users\s467316\Documents\Tobi\SchoolAppMenuTobi\SchoolAppMenuTobi\obj\Debug\SchoolAppMenuTobi.exe
+C:\Users\s467316\Documents\Tobi\SchoolAppMenuTobi\SchoolAppMenuTobi\obj\Debug\SchoolAppMenuTobi.pdb

@@ -1,0 +1,10 @@
+C:\Users\s467316\Documents\Tobi\HelloWorldTobi\HelloWorldTobi\bin\Debug\HelloWorldTobi.exe.config
+C:\Users\s467316\Documents\Tobi\HelloWorldTobi\HelloWorldTobi\bin\Debug\HelloWorldTobi.exe
+C:\Users\s467316\Documents\Tobi\HelloWorldTobi\HelloWorldTobi\bin\Debug\HelloWorldTobi.pdb
+C:\Users\s467316\Documents\Tobi\HelloWorldTobi\HelloWorldTobi\obj\Debug\HelloWorldTobi.csprojAssemblyReference.cache
+C:\Users\s467316\Documents\Tobi\HelloWorldTobi\HelloWorldTobi\obj\Debug\HelloWorldTobi.frmHelloWorld.resources
+C:\Users\s467316\Documents\Tobi\HelloWorldTobi\HelloWorldTobi\obj\Debug\HelloWorldTobi.Properties.Resources.resources
+C:\Users\s467316\Documents\Tobi\HelloWorldTobi\HelloWorldTobi\obj\Debug\HelloWorldTobi.csproj.GenerateResource.cache
+C:\Users\s467316\Documents\Tobi\HelloWorldTobi\HelloWorldTobi\obj\Debug\HelloWorldTobi.csproj.CoreCompileInputs.cache
+C:\Users\s467316\Documents\Tobi\HelloWorldTobi\HelloWorldTobi\obj\Debug\HelloWorldTobi.exe
+C:\Users\s467316\Documents\Tobi\HelloWorldTobi\HelloWorldTobi\obj\Debug\HelloWorldTobi.pdb
