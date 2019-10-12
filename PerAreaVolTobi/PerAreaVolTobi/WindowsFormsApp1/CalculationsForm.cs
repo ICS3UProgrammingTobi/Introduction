@@ -33,7 +33,7 @@ namespace WindowsFormsApp1
         {
 
         }
-
+        //Assign each button to it's correct clculaton
         private void btnEquations1_Click(object sender, EventArgs e)
         {
             this.lblAnswer1.Text = Convert.ToString(5 * 2 + 8 * 2) + " cm";

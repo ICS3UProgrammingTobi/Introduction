@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Tobi adebayo
+ * Created on: 11-10-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #6 - Hello world
+ * This program Says hello world in different languages
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -21,7 +28,7 @@ namespace HelloWorldIntTobi
         {
 
         }
-
+        //assign each button to its language
         private void RadioButton2_CheckedChanged(object sender, EventArgs e)
         {
             lblGreeting.Text = "Hola Mundo!";

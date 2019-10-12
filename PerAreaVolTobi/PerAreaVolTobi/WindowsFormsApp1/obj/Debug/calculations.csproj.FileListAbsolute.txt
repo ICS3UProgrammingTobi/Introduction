@@ -7,3 +7,12 @@ C:\Users\Tobi\Documents\Tobi\WindowsFormsApp1 day 7 clculations\WindowsFormsApp1
 C:\Users\Tobi\Documents\Tobi\WindowsFormsApp1 day 7 clculations\WindowsFormsApp1\obj\Debug\calculations.csproj.GenerateResource.cache
 C:\Users\Tobi\Documents\Tobi\WindowsFormsApp1 day 7 clculations\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Tobi\Documents\Tobi\WindowsFormsApp1 day 7 clculations\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Introduction\PerAreaVolTobi\PerAreaVolTobi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Introduction\PerAreaVolTobi\PerAreaVolTobi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Introduction\PerAreaVolTobi\PerAreaVolTobi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Introduction\PerAreaVolTobi\PerAreaVolTobi\WindowsFormsApp1\obj\Debug\calculations.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Introduction\PerAreaVolTobi\PerAreaVolTobi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCalculations.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Introduction\PerAreaVolTobi\PerAreaVolTobi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Introduction\PerAreaVolTobi\PerAreaVolTobi\WindowsFormsApp1\obj\Debug\calculations.csproj.GenerateResource.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Introduction\PerAreaVolTobi\PerAreaVolTobi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Introduction\PerAreaVolTobi\PerAreaVolTobi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
